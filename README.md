@@ -11,6 +11,11 @@ A List of eHealth and Health Informatics Resources
 
 ## Software
 
+### Open Source
+
+#### EMR
+* [OpenMRS](https://openmrs.org/)
+
 ### Form Management
 * [*FHIRForm* is a framework for managing healthcare forms leveraging the HL7 FHIR standard](https://github.com/E-Health/fhirform)
 
