@@ -16,6 +16,12 @@ A List of eHealth and Health Informatics Resources
 #### EMR
 * [OpenMRS](https://openmrs.org/)
 
+#### Public Health Information Systems
+* [DHIS2](https://www.dhis2.org/)
+
+#### NLP
+* [cTakes](https://github.com/dermatologist/ctakes-spring-boot)
+
 ### Form Management
 * [*FHIRForm* is a framework for managing healthcare forms leveraging the HL7 FHIR standard](https://github.com/E-Health/fhirform)
 
