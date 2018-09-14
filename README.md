@@ -23,6 +23,10 @@ A List of eHealth and Health Informatics Resources
 #### NLP
 * [cTakes](https://github.com/dermatologist/ctakes-spring-boot)
 
+### Specifications
+  * [FHIR](https://www.hl7.org/fhir/) - Fast Health Interoperability Resources.
+  * [OpenEHR](http://www.openehr.org) - Open specification from which software can be built on.
+
 ### Form Management
 * [*FHIRForm* is a framework for managing healthcare forms leveraging the HL7 FHIR standard](https://github.com/E-Health/fhirform)
 
