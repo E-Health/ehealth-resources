@@ -19,6 +19,7 @@ A List of eHealth and Health Informatics Resources
 
 #### Public Health Information Systems
 * [DHIS2](https://www.dhis2.org/)
+* [Epi Info™](https://www.cdc.gov/epiinfo/index.html)
 
 #### NLP
 * [cTakes](https://github.com/dermatologist/ctakes-spring-boot)
