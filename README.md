@@ -31,5 +31,8 @@ A List of eHealth and Health Informatics Resources
 ### Form Management
 * [*FHIRForm* is a framework for managing healthcare forms leveraging the HL7 FHIR standard](https://github.com/E-Health/fhirform)
 
+## Conferences
+* [e-Health Annual Conference & Tradeshow - Toronto](http://www.e-healthconference.com/)
+
 ## Government Resources
 * [Australian Department of Health - eHealth](http://www.health.gov.au/ehealth)
