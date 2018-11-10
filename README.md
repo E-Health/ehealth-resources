@@ -8,6 +8,9 @@ A List of eHealth and Health Informatics Resources
 * [Master of Health Informatics | U Waterloo](https://uwaterloo.ca/public-health-and-health-systems/future-graduate-students/professional-programs/master-health-informatics)
 * [Health Informatics, Ryerson U](https://ce-online.ryerson.ca/ce/default.aspx?id=3227)
 
+## e-Journals and Publications
+* [JMIR-Journal of Medical Internet Research](https://www.jmir.org/)
+
 ## Data Models
 * [OMOP Common Data Model and associated tools from Observational Health Data Sciences and Informatics or OHDSI, pronounced "Odyssey"](https://www.ohdsi.org/) 
 
