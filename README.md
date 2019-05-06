@@ -34,7 +34,7 @@ A List of eHealth and Health Informatics Resources. [Add More](https://help.gith
   * [OpenEHR](http://www.openehr.org) - Open specification from which software can be built on.
 
 ### Form Management
-* [*FHIRForm* is a framework for managing healthcare forms leveraging the HL7 FHIR standard](https://github.com/E-Health/fhirform)
+* [:fire: *FHIRForm* is a framework for managing healthcare forms leveraging the HL7 FHIR standard](https://github.com/E-Health/fhirform)
 
 ### mHealth
 * [Open mHealth - Open Standard For Mobile Health Data](http://www.openmhealth.org/)
