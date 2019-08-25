@@ -4,6 +4,7 @@
 
 ### August 25, 2019 
 - [Natural language processing in Apache Spark using NLTK (part 1/2)](https://towardsdatascience.com/natural-language-processing-in-apache-spark-using-nltk-part-1-2-58c68824f660) 
+- [word2vec on Databricks - trivial.io](https://trivial.io/word2vec-on-databricks-791157831eaa) 
 ### August 23, 2019 
 - [Cohort retrieval from EHR using OMOP CDM and NLP](https://arxiv.org/pdf/1901.07601.pdf) 
 ### August 22, 2019 
