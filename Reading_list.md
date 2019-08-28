@@ -2,6 +2,9 @@
 
 
 
+
+### August 28, 2019 
+- [Why ‘one app to rule them all’ is not the future of digital health | TechCrunch](https://techcrunch.com/2019/08/27/why-one-app-to-rule-them-all-is-not-the-future-of-digital-health/) 
 ### August 25, 2019 
 - [Natural language processing in Apache Spark using NLTK (part 1/2)](https://towardsdatascience.com/natural-language-processing-in-apache-spark-using-nltk-part-1-2-58c68824f660) 
 - [word2vec on Databricks - trivial.io](https://trivial.io/word2vec-on-databricks-791157831eaa) 
