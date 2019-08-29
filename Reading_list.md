@@ -3,6 +3,9 @@
 
 
 
+
+### August 29, 2019 
+- [Grounded Theory - Qualitative Research support tools in Python.](https://nuchange.ca/2017/09/grounded-theory-qualitative-research-python.html) 
 ### August 28, 2019 
 - [Why ‘one app to rule them all’ is not the future of digital health | TechCrunch](https://techcrunch.com/2019/08/27/why-one-app-to-rule-them-all-is-not-the-future-of-digital-health/) 
 - [Using CDM tables for Achilles (ATLAS) - Implementers - OHDSI Forums](https://forums.ohdsi.org/t/using-cdm-tables-for-achilles-atlas/4850) 
