@@ -4,6 +4,9 @@
 
 
 
+
+### August 31, 2019 
+- [Practical Deep Learning for Coders, v3 | fast.ai course v3](https://course.fast.ai/) 
 ### August 29, 2019 
 - [Grounded Theory - Qualitative Research support tools in Python.](https://nuchange.ca/2017/09/grounded-theory-qualitative-research-python.html) 
 ### August 28, 2019 
