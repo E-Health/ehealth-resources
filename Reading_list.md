@@ -5,6 +5,9 @@
 
 
 
+
+### September 1, 2019 
+- [Transfer Learning with Convolutional Neural Networks in PyTorch](https://towardsdatascience.com/transfer-learning-with-convolutional-neural-networks-in-pytorch-dd09190245ce) 
 ### August 31, 2019 
 - [Practical Deep Learning for Coders, v3 | fast.ai course v3](https://course.fast.ai/) 
 ### August 29, 2019 
