@@ -7,6 +7,9 @@
 
 
 
+
+### September 7, 2019 
+- [OSCAR in a BOX - Virtualized and fault-tolerant OSCAR EMR - Bell Eapen](https://nuchange.ca/2019/08/oscar-in-a-box-virtualized-and-fault-tolerant-oscar-emr.html) 
 ### September 5, 2019 
 - [DiseaseOntology/HumanDiseaseOntology: Repository for the Human Disease Ontology.](https://github.com/DiseaseOntology/HumanDiseaseOntology) 
 ### September 1, 2019 
