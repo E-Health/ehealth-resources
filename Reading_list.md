@@ -8,6 +8,9 @@
 
 
 
+
+### September 9, 2019 
+- [“Reinforcement Learning in Healthcare: Challenges and Promise" - YouTube](https://www.youtube.com/watch?v=OsGxPVYR2xo) 
 ### September 7, 2019 
 - [OSCAR in a BOX - Virtualized and fault-tolerant OSCAR EMR - Bell Eapen](https://nuchange.ca/2019/08/oscar-in-a-box-virtualized-and-fault-tolerant-oscar-emr.html) 
 ### September 5, 2019 
