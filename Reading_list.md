@@ -9,6 +9,9 @@
 
 
 
+
+### September 11, 2019 
+- [How to Serve Data Science Models with OpenFaaS | OpenFaaS - Serverless Functions Made Simple](https://www.openfaas.com/blog/python-datascience-with-openfaas/) 
 ### September 9, 2019 
 - [“Reinforcement Learning in Healthcare: Challenges and Promise" - YouTube](https://www.youtube.com/watch?v=OsGxPVYR2xo) 
 ### September 7, 2019 
