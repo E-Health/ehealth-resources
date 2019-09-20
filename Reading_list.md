@@ -11,6 +11,9 @@
 
 
 
+
+### September 19, 2019 
+- [Ride the Serverless Wave with DigitalOcean’s One-click Droplet | OpenFaaS - Serverless Functions Made Simple](https://www.openfaas.com/blog/digitalocean-one-click/) 
 ### September 18, 2019 
 - [smart-on-fhir/bulk-data-server](https://github.com/smart-on-fhir/bulk-data-server) 
 ### September 11, 2019 
