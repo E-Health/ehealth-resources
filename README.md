@@ -21,6 +21,7 @@ A List of eHealth and Health Informatics Resources. [Add More](https://help.gith
 #### EMR
 * [OpenMRS](https://openmrs.org/)
 * [OSCAR](https://bitbucket.org/oscaremr/oscar/src/stable/)
+* [Open-EMR](https://www.open-emr.org/)
 
 #### Public Health Information Systems
 * [DHIS2](https://www.dhis2.org/)
