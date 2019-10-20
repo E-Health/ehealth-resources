@@ -45,3 +45,4 @@ A List of eHealth and Health Informatics Resources
 ## Government Resources
 * [Australian Department of Health - eHealth](http://www.health.gov.au/ehealth)
 * [Canadian Institute for Health Information](https://www.cihi.ca)
+* [E-Health Ontario](https://www.ehealthontario.on.ca/en/)
