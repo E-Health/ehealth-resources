@@ -6,3 +6,4 @@
 - https://arxiv.org/abs/2006.04480 : Application of the Estimand Framework
 - https://github.com/ML4LHS/clinspacy : Clinical NLP
 - https://github.com/microsoft/dicom-server/blob/master/docs/concepts/dicom-cast.md : DICOM cast - Sync DICOM data with FHIR
+- https://github.com/GabrielFDuarte/DICOM-Explorer : 
