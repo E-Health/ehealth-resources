@@ -50,3 +50,5 @@ A List of eHealth and Health Informatics Resources. [Add More](https://help.gith
 
 ## Miscellaneous software
 * [Command-line tool for mapping FHIR <--> OHDSI OMOP CDM](https://github.com/E-Health/omopfhirmap)
+* [OSCAR EMR EForm Export (csv) to FHIR](https://github.com/E-Health/goscar-export)
+* [The swiss army knife for discharge abstract database!](https://github.com/E-Health/dadpy)
