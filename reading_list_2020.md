@@ -7,3 +7,4 @@
 - https://github.com/ML4LHS/clinspacy : Clinical NLP
 - https://github.com/microsoft/dicom-server/blob/master/docs/concepts/dicom-cast.md : DICOM cast - Sync DICOM data with FHIR
 - https://github.com/GabrielFDuarte/DICOM-Explorer : 
+- https://blog.tensorflow.org/2020/03/face-and-hand-tracking-in-browser-with-mediapipe-and-tensorflowjs.html : Face mesh by tensorflow.js
