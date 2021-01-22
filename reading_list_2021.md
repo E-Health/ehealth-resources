@@ -1,0 +1,2 @@
+- https://github.com/arkhn/fhir-river : Live ETL pipeline to standardize Health Data into FHIR.
+- https://github.com/mims-harvard/TDC : Therapeutics Data Commons: Machine Learning Datasets for Therapeutics

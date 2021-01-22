@@ -1,0 +1,2 @@
+- https://github.com/google-research/arxiv-latex-cleaner : arXiv LaTeX Cleaner: Easily clean the LaTeX code of your paper to submit to arXiv
+- https://github.com/arkhn/pyrog : Standardization tool for healthcare data
