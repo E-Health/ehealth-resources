@@ -1,3 +1,4 @@
 - https://github.com/google-research/arxiv-latex-cleaner : arXiv LaTeX Cleaner: Easily clean the LaTeX code of your paper to submit to arXiv
 - https://github.com/arkhn/pyrog : Standardization tool for healthcare data
 - https://github.com/typeorm/typeorm : ORM for TypeScript and JavaScript (ES7, ES6, ES5).
+- https://github.com/Naereen/badges : Markdown code for badges
