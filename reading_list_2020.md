@@ -12,3 +12,4 @@
 - https://github.com/allenai/scispacy : 
 - https://github.com/jspsych/jsPsych : 
 - https://github.com/dbeanm/UMLS-Neo4j : 
+- https://github.com/kormilitzin/med7 : NER model for health care 
