@@ -2,3 +2,4 @@
 - https://github.com/arkhn/pyrog : Standardization tool for healthcare data
 - https://github.com/typeorm/typeorm : ORM for TypeScript and JavaScript (ES7, ES6, ES5).
 - https://github.com/Naereen/badges : Markdown code for badges
+- https://github.com/tabulapdf/tabula-java : Extract tables from PDF
