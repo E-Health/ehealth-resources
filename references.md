@@ -1,0 +1,1 @@
+- https://github.com/aehrc/pathling : Config git.properties, Change spring logo
