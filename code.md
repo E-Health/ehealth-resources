@@ -2,3 +2,4 @@
 - https://www.face-rec.org/databases/ : FACE RECOGNITION HOMEPAGE
 - https://robinkips.github.io/DeepMakeupGraphicsEncoder/ : Deep Graphics Encoder for Real-Time Video Makeup Synthesis
 - https://github.com/howdyai/botkit-cms : An open tool for designing, building and managing interactive dialog systems
+- https://github.com/liuhuanyong/QASystemOnMedicalKG : Clinical Knowledge Graph and chat in python
