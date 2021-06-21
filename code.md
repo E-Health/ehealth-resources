@@ -4,3 +4,4 @@
 - https://github.com/howdyai/botkit-cms : An open tool for designing, building and managing interactive dialog systems
 - https://github.com/liuhuanyong/QASystemOnMedicalKG : Clinical Knowledge Graph and chat in python
 - https://github.com/MIC-DKFZ/medicaldetectiontoolkit : The Medical Detection Toolkit
+- https://github.com/MrGiovanni/UNetPlusPlus : UNet++: A Nested U-Net Architecture for Medical Image Segmentation
