@@ -1,0 +1,8 @@
+# https://github.com/behaviorbot/welcome
+
+newPRWelcomeComment: >
+  Thank your for submitting a pull request.
+  Please make sure you have followed our contributing guidelines in CONTRIBUTING.md. We will review it as soon as possible.
+  Be sure to star ✨ the repository. Thank you!
+firstPRMergeComment: >
+  Congrats on merging your first pull request! 🎉🎉🎉
