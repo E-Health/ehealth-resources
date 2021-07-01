@@ -5,3 +5,4 @@
 - https://github.com/liuhuanyong/QASystemOnMedicalKG : Clinical Knowledge Graph and chat in python
 - https://github.com/MIC-DKFZ/medicaldetectiontoolkit : The Medical Detection Toolkit
 - https://github.com/MrGiovanni/UNetPlusPlus : UNet++: A Nested U-Net Architecture for Medical Image Segmentation
+- https://github.com/QIICR/dcmqi : DICOM for Quantitative Imaging
