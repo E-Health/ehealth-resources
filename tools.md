@@ -7,3 +7,4 @@
 - https://github.com/cornerstonejs/cornerstone : JavaScript library to display interactive medical images
 - https://github.com/DLTK/DLTK : Deep Learning Toolkit for Medical Image Analysis
 - https://github.com/n8n-io/n8n : Free and open fair-code licensed node based Workflow Automation Tool. Easily automate tasks across different services.
+- https://github.com/Project-MONAI/MONAI : AI Toolkit for Healthcare Imaging
