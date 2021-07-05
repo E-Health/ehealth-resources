@@ -9,3 +9,4 @@
 - https://github.com/n8n-io/n8n : Free and open fair-code licensed node based Workflow Automation Tool. Easily automate tasks across different services.
 - https://github.com/Project-MONAI/MONAI : AI Toolkit for Healthcare Imaging
 - https://github.com/vladmandic/face-api : FaceAPI: AI-powered Face Detection & Rotation Tracking, Face Description & Recognition, Age & Gender & Emotion Prediction for Browser and NodeJS using TensorFlow/JS
+- https://github.com/Project-MONAI/MONAILabel : MONAI Label images for machine learning 
