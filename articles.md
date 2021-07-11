@@ -55,3 +55,4 @@
 
 - https://github.com/arkhn/fhir-river : Live ETL pipeline to standardize Health Data into FHIR.
 - https://github.com/mims-harvard/TDC : Therapeutics Data Commons: Machine Learning Datasets for Therapeutics
+- https://bmcmedinformdecismak.biomedcentral.com/articles/10.1186/s12911-021-01570-2 : Designing a reference architecture for health information systems
