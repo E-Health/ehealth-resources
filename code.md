@@ -12,3 +12,4 @@
 - https://github.com/mindee/doctr : Document Text Recognition (DocTR) made seamless, high-performing & accessible to anyone using Deep Learning for OCR-related tasks.
 - https://github.com/CogStack/nlp2phenome : using AI model to infer patient phenotypes from identified named entities (instances of biomedical concepts)
 - https://github.com/asyml/forte : Forte is a flexible and powerful NLP builder FOR TExt. This is part of the CASL project: http://casl-project.ai/
+- https://github.com/bvanaken/clinical-outcome-prediction : Code for the EACL 2021 Paper: Clinical Outcome Prediction from Admission Notes using Self-Supervised Knowledge Integration
