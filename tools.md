@@ -11,3 +11,4 @@
 - https://github.com/vladmandic/face-api : FaceAPI: AI-powered Face Detection & Rotation Tracking, Face Description & Recognition, Age & Gender & Emotion Prediction for Browser and NodeJS using TensorFlow/JS
 - https://github.com/Project-MONAI/MONAILabel : MONAI Label images for machine learning 
 - https://github.com/Project-MONAI/MONAI : AI Toolkit for Healthcare Imaging
+- https://github.com/aramis-lab/clinica : Software platform for clinical neuroimaging studies
