@@ -13,3 +13,4 @@
 - https://github.com/Project-MONAI/MONAI : AI Toolkit for Healthcare Imaging
 - https://github.com/aramis-lab/clinica : Software platform for clinical neuroimaging studies
 - https://github.com/MIC-DKFZ/nnDetection : nnDetection is a self-configuring framework for 3D (volumetric) medical object detection which can be applied to new data sets without manual intervention. It includes guides for 12 data sets that were used to develop and evaluate the performance of the proposed method.
+- https://github.com/opensafely-core/cohort-extractor : Cohort extractor tool which can generate dummy data, or real data against OpenSAFELY-compliant research databases
