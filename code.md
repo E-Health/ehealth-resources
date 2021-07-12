@@ -10,3 +10,4 @@
 - https://github.com/QIICR/dcmqi : DICOM for Quantitative Imaging
 
 - https://github.com/mindee/doctr : Document Text Recognition (DocTR) made seamless, high-performing & accessible to anyone using Deep Learning for OCR-related tasks.
+- https://github.com/CogStack/nlp2phenome : using AI model to infer patient phenotypes from identified named entities (instances of biomedical concepts)
