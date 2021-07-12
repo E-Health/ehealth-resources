@@ -8,3 +8,5 @@
 - https://github.com/MIC-DKFZ/medicaldetectiontoolkit : The Medical Detection Toolkit
 - https://github.com/MrGiovanni/UNetPlusPlus : UNet++: A Nested U-Net Architecture for Medical Image Segmentation
 - https://github.com/QIICR/dcmqi : DICOM for Quantitative Imaging
+
+- https://github.com/mindee/doctr : Document Text Recognition (DocTR) made seamless, high-performing & accessible to anyone using Deep Learning for OCR-related tasks.
