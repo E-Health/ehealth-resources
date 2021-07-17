@@ -16,3 +16,4 @@
 - https://github.com/opensafely-core/cohort-extractor : Cohort extractor tool which can generate dummy data, or real data against OpenSAFELY-compliant research databases
 - https://github.com/deeptools/deepTools : Tools to process and analyze deep sequencing data.
 - https://github.com/arkhn/fhir-river : Live ETL pipeline to standardize Health Data into FHIR.
+- https://github.com/google/simhospital : Simulated Hospital is a tool that generates realistic and configurable hospital patient data in HL7v2 format.
