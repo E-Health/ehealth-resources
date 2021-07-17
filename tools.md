@@ -1,2 +1,3 @@
 - https://wandb.ai/site : Developer tools for machine learning Build better models faster with experiment tracking, dataset versioning, and model management
 - https://github.com/deepmind/alphafold : Highly accurate protein structure prediction with AlphaFold.
+- https://github.com/GoogleCloudPlatform/healthcare-data-harmonization : This is an engine that converts data of one structure to another, based on a configuration file which describes how. There is an accompanying syntax to make writing mappings easier and more robust.
