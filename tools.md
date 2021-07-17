@@ -17,3 +17,4 @@
 - https://github.com/deeptools/deepTools : Tools to process and analyze deep sequencing data.
 - https://github.com/arkhn/fhir-river : Live ETL pipeline to standardize Health Data into FHIR.
 - https://github.com/google/simhospital : Simulated Hospital is a tool that generates realistic and configurable hospital patient data in HL7v2 format.
+- https://github.com/GoogleCloudPlatform/healthcare-data-harmonization : This is an engine that converts data of one structure to another, based on a configuration file which describes how. There is an accompanying syntax to make writing mappings easier and more robust.
