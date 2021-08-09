@@ -46,3 +46,5 @@
 * [Australian Department of Health - eHealth](http://www.health.gov.au/ehealth)
 * [Canadian Institute for Health Information](https://www.cihi.ca)
 * [E-Health Ontario](https://www.ehealthontario.on.ca/en/)
+
+- https://alexswong.github.io/COVID-Net/ : Launched in March 2020 in response to the coronavirus disease 2019 (COVID-19) pandemic, COVID-Net is a global open source, open access initiative dedicated to accelerating advancement in machine learning to aid front-line healthcare workers and clinical institutions around the world fighting the continuing pandemic.
