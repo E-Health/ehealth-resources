@@ -21,3 +21,4 @@
 - https://wandb.ai/site : Developer tools for machine learning Build better models faster with experiment tracking, dataset versioning, and model management
 - http://terrier.org/ : Terrier is a highly flexible, efficient, and effective open source search engine, readily deployable on large-scale collections of documents. 
 - https://www.jamovi.org/ : jamovi is a compelling alternative to costly statistical products such as SPSS and SAS.
+- https://github.com/amazon-research/nl2sql-omop-cdm : Natural Language to SQL Queries in the OMOP CDM Datasets
