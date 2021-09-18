@@ -23,3 +23,4 @@
 - https://www.jamovi.org/ : jamovi is a compelling alternative to costly statistical products such as SPSS and SAS.
 - https://github.com/amazon-research/nl2sql-omop-cdm : Natural Language to SQL Queries in the OMOP CDM Datasets
 - https://github.com/OHDSI/Nostos : Navigate OMOP-structured data via text-to-SQL
+- https://github.com/microsoft/Tools-for-Health-Data-Anonymization : Set of tools for helping with data (in FHIR format) anonymization.
