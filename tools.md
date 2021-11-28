@@ -25,3 +25,5 @@
 - https://github.com/OHDSI/Nostos : Navigate OMOP-structured data via text-to-SQL
 - https://github.com/microsoft/Tools-for-Health-Data-Anonymization : Set of tools for helping with data (in FHIR format) anonymization.
 - https://github.com/svjan5/medtype : MedType: Improving Medical Entity Linking with Semantic Type Prediction
+- https://github.com/carrot2/carrot2 : Carrot2: Text Clustering Algorithms and Applications
+- https://github.com/tyiannak/pyAudioAnalysis : Python Audio Analysis Library

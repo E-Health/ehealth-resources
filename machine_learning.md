@@ -2,3 +2,4 @@
 - https://github.com/quantumblacklabs/kedro : maintain  data science code 
 - https://github.com/MIC-DKFZ/nnUNet : Biomedical image segmentation
 - https://github.com/facebookresearch/AugLy : A data augmentations library for audio, image, text, and video.
+- https://github.com/EmilyAlsentzer/clinicalBERT : repository for Publicly Available Clinical BERT Embeddings
