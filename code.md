@@ -14,3 +14,4 @@
 - https://github.com/asyml/forte : Forte is a flexible and powerful NLP builder FOR TExt. This is part of the CASL project: http://casl-project.ai/
 - https://github.com/bvanaken/clinical-outcome-prediction : Code for the EACL 2021 Paper: Clinical Outcome Prediction from Admission Notes using Self-Supervised Knowledge Integration
 - https://github.com/LNS98/deep-learning-medical-app : MSc AI Group Project Imperial College London. Created a medical web-application, easily deployable using Docker, for clinicians to upload MRI scans of bowel system and receive a diagnosis from a ResNet Model.
+- https://alphafold.ebi.ac.uk/ : AlphaFold is an AI system developed by DeepMind that predicts a protein's 3D structure from its amino acid sequence. 
