@@ -57,3 +57,4 @@
 - https://github.com/mims-harvard/TDC : Therapeutics Data Commons: Machine Learning Datasets for Therapeutics
 - https://bmcmedinformdecismak.biomedcentral.com/articles/10.1186/s12911-021-01570-2 : Designing a reference architecture for health information systems
 - https://towardsdatascience.com/getting-started-in-medical-ai-93737bea5575 : Getting Started in Medical AI A Guide to Online Learning Resources for Clinicians
+- https://github.com/patrickmineault/research_code : Writing good research code

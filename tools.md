@@ -27,3 +27,5 @@
 - https://github.com/svjan5/medtype : MedType: Improving Medical Entity Linking with Semantic Type Prediction
 - https://github.com/carrot2/carrot2 : Carrot2: Text Clustering Algorithms and Applications
 - https://github.com/tyiannak/pyAudioAnalysis : Python Audio Analysis Library
+- https://github.com/IHTSDO/snowstorm : Scalable SNOMED CT Terminology Server using Elasticsearch
+- https://github.com/LinuxForHealth/dicom-fhir-converter : Converts DICOM Resources to FHIR Resources

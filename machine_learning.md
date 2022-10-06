@@ -3,3 +3,5 @@
 - https://github.com/MIC-DKFZ/nnUNet : Biomedical image segmentation
 - https://github.com/facebookresearch/AugLy : A data augmentations library for audio, image, text, and video.
 - https://github.com/EmilyAlsentzer/clinicalBERT : repository for Publicly Available Clinical BERT Embeddings
+- https://github.com/axa-group/nlp.js : An NLP library for building bots, with entity extraction, sentiment analysis, automatic language identify, and so more
+- https://github.com/JohnGiorgi/DeCLUTR : DeCLUTR: Deep Contrastive Learning for Unsupervised Textual Representations
