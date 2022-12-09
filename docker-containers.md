@@ -1,1 +1,2 @@
 - https://hub.docker.com/r/hapiproject/hapi : HAPI-FHIR Starter Project
+- https://hub.docker.com/r/medplum/medplum-server : Medplum FHIR Server
